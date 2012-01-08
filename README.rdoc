@@ -1,3 +1,7 @@
+= This fork from vigetlabs/capistrano_rsync_with_remote_cache
+
+Add <tt>:app_root</tt> option for deploy from a git subdirectory
+
 = Capistrano rsync_with_remote_cache Deployment Strategy
 
 == Description
